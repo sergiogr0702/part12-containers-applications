@@ -1,0 +1,8 @@
+Script started on Fri Aug 30 13:54:27 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                [0m[27m[24m[Jsergio@MacBook part12-containers-applications % [K[?2004heecho ge  ""h"e"l"l"o"[?2004l
+hello
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                [0m[27m[24m[Jsergio@MacBook part12-containers-applications % [K[?2004hddate[?2004l
+Fri Aug 30 13:54:44 CEST 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                [0m[27m[24m[Jsergio@MacBook part12-containers-applications % [K[?2004heexit[?2004l
+
+Script done on Fri Aug 30 13:54:48 2024
